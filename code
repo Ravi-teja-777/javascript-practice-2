@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>bE uNIQUE</h2>
+<script>
+function h1(name){
+document.write("My name is : "+name+"<br/>");
+}
+h1("ravi teja");
+h1("prasanna");
+h1("sai");
+</script>
+</body>
+</html>
